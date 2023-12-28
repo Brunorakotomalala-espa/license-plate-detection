@@ -5,3 +5,4 @@
 - The dataset was trained upon the YOLOV8 model using 20 epochs and image size as 640*640.
 - The model was validated with the validation set and it produced satisfying results.
 - In addition to the validation results, the model was tested against several test images and the results were checked manually.
+- The best model out of 20 epochs is located in 'runs/detect/train/weights/best.pt'
